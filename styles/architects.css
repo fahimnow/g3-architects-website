@@ -252,6 +252,9 @@ main > section{
         margin-top: 20px;
         margin-left: 20px;
     }
+    .foot{
+        margin: 40px auto ;
+    }
 }
 
 
@@ -276,5 +279,7 @@ main > section{
     .facts{
         justify-items: center;
     }
-    
+    .foot{
+        margin: 60px auto ;
+    }
 }
